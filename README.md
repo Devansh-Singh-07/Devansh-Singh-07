@@ -44,11 +44,16 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Devansh-Singh-07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
+<div>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Devansh-Singh-07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img height="195" src="https://streak-stats.demolab.com?user=Devansh-Singh-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-![](https://streak-stats.demolab.com?user=Devansh-Singh-07&theme=tokyonight&hide_border=false)
+<br />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Singh-07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Singh-07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 ---
 
 # 🚀 Current Focus:
