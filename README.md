@@ -123,8 +123,4 @@ iOS Developer • Full Stack Developer • Building products people love
 
 ---
 
-<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devansh-Singh-07&theme=tokyonight"/>
-
-</p>
