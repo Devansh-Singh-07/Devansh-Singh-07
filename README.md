@@ -17,7 +17,7 @@ iOS Developer • Full Stack Developer • Building products people love
 - 📱 Building beautiful iOS apps using **SwiftUI**
 - 🌐 Full Stack Developer with **Next.js, Node.js & Express**
 - ⚡ Exploring **Generative AI** and modern developer tools
-- 💡 Passionate about solving real-world problems through software
+- 💡 Passionate about solving real-world problems through software, it's just so fun.
 - 🎯 Goal: Build products used by millions
 
 ---
